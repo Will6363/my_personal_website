@@ -1,5 +1,5 @@
-import { database } from "~/database/context";
-import * as schema from "~/database/schema";
+// import { database } from "~/database/context";
+// import * as schema from "~/database/schema";
 
 import type { Route } from "./+types/home";
 
