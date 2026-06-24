@@ -7,5 +7,8 @@ export default [
         route("/contact", "routes/contact.tsx"),
         route("/demos", "routes/demos.tsx"),
         route("/login", "routes/login.tsx"),
+        route("/settings", "routes/settings.tsx"),
+        route("/upload", "routes/uploadImage.tsx"),
+        route("*", "routes/notFound.tsx"),
     ])
 ] satisfies RouteConfig;
