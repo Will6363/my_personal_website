@@ -1,0 +1,1 @@
+import{k as e,t}from"./jsx-runtime-Dx1zdrh6.js";var n=t();function r({}){return[{title:`New React Router App`},{name:`description`,content:`Welcome to React Router!`}]}var i=e(function({actionData:e,loaderData:t}){return(0,n.jsx)(`div`,{className:`home`,children:(0,n.jsx)(`h1`,{children:`Welcome to the Home Page`})})});export{i as default,r as meta};
