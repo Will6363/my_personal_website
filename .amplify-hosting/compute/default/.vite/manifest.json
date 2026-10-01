@@ -1,0 +1,51 @@
+{
+  "_context-D493w4sh.js": {
+    "file": "assets/context-D493w4sh.js",
+    "name": "context"
+  },
+  "_express-B0J7KBMI.js": {
+    "file": "assets/express-B0J7KBMI.js",
+    "name": "express",
+    "imports": [
+      "_context-D493w4sh.js"
+    ]
+  },
+  "_server-build-C7stmGt-.css": {
+    "file": "assets/server-build-C7stmGt-.css",
+    "src": "_server-build-C7stmGt-.css"
+  },
+  "_server-build-CamuQEjY.js": {
+    "file": "assets/server-build-CamuQEjY.js",
+    "name": "server-build",
+    "imports": [
+      "_context-D493w4sh.js"
+    ],
+    "css": [
+      "assets/server-build-C7stmGt-.css"
+    ]
+  },
+  "server/app.ts": {
+    "file": "index.js",
+    "name": "server-build",
+    "src": "server/app.ts",
+    "isEntry": true,
+    "imports": [
+      "_context-D493w4sh.js",
+      "_express-B0J7KBMI.js"
+    ],
+    "dynamicImports": [
+      "_server-build-CamuQEjY.js"
+    ]
+  },
+  "virtual:react-router-amplify-hosting": {
+    "file": "server.mjs",
+    "name": "server",
+    "src": "virtual:react-router-amplify-hosting",
+    "isEntry": true,
+    "imports": [
+      "_context-D493w4sh.js",
+      "_server-build-CamuQEjY.js",
+      "_express-B0J7KBMI.js"
+    ]
+  }
+}

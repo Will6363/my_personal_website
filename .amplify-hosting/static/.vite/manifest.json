@@ -1,0 +1,108 @@
+{
+  "_jsx-runtime-Dx1zdrh6.js": {
+    "file": "assets/jsx-runtime-Dx1zdrh6.js",
+    "name": "jsx-runtime"
+  },
+  "app/layouts/root-layout.tsx?__react-router-build-client-route": {
+    "file": "assets/root-layout-DjSlBDIv.js",
+    "name": "root-layout",
+    "src": "app/layouts/root-layout.tsx?__react-router-build-client-route",
+    "isEntry": true,
+    "imports": [
+      "_jsx-runtime-Dx1zdrh6.js"
+    ]
+  },
+  "app/root.tsx?__react-router-build-client-route": {
+    "file": "assets/root--KthvYWa.js",
+    "name": "root",
+    "src": "app/root.tsx?__react-router-build-client-route",
+    "isEntry": true,
+    "imports": [
+      "_jsx-runtime-Dx1zdrh6.js"
+    ],
+    "css": [
+      "assets/root-DuzZ4lLA.css"
+    ]
+  },
+  "app/routes/contact.tsx?__react-router-build-client-route": {
+    "file": "assets/contact-DAuC4Gpc.js",
+    "name": "contact",
+    "src": "app/routes/contact.tsx?__react-router-build-client-route",
+    "isEntry": true,
+    "imports": [
+      "_jsx-runtime-Dx1zdrh6.js"
+    ]
+  },
+  "app/routes/demos.tsx?__react-router-build-client-route": {
+    "file": "assets/demos-CWl0YFDs.js",
+    "name": "demos",
+    "src": "app/routes/demos.tsx?__react-router-build-client-route",
+    "isEntry": true,
+    "imports": [
+      "_jsx-runtime-Dx1zdrh6.js"
+    ]
+  },
+  "app/routes/gallery.tsx?__react-router-build-client-route": {
+    "file": "assets/gallery-DAHpT7GX.js",
+    "name": "gallery",
+    "src": "app/routes/gallery.tsx?__react-router-build-client-route",
+    "isEntry": true,
+    "imports": [
+      "_jsx-runtime-Dx1zdrh6.js"
+    ]
+  },
+  "app/routes/home.tsx?__react-router-build-client-route": {
+    "file": "assets/home-BYLfHvZW.js",
+    "name": "home",
+    "src": "app/routes/home.tsx?__react-router-build-client-route",
+    "isEntry": true,
+    "imports": [
+      "_jsx-runtime-Dx1zdrh6.js"
+    ]
+  },
+  "app/routes/login.tsx?__react-router-build-client-route": {
+    "file": "assets/login-DSF0GF16.js",
+    "name": "login",
+    "src": "app/routes/login.tsx?__react-router-build-client-route",
+    "isEntry": true,
+    "imports": [
+      "_jsx-runtime-Dx1zdrh6.js"
+    ]
+  },
+  "app/routes/notFound.tsx?__react-router-build-client-route": {
+    "file": "assets/notFound-BRDtwLeV.js",
+    "name": "notFound",
+    "src": "app/routes/notFound.tsx?__react-router-build-client-route",
+    "isEntry": true,
+    "imports": [
+      "_jsx-runtime-Dx1zdrh6.js"
+    ]
+  },
+  "app/routes/settings.tsx?__react-router-build-client-route": {
+    "file": "assets/settings-CxixQ25c.js",
+    "name": "settings",
+    "src": "app/routes/settings.tsx?__react-router-build-client-route",
+    "isEntry": true,
+    "imports": [
+      "_jsx-runtime-Dx1zdrh6.js"
+    ]
+  },
+  "app/routes/uploadImage.tsx?__react-router-build-client-route": {
+    "file": "assets/uploadImage-CQ4hEfkI.js",
+    "name": "uploadImage",
+    "src": "app/routes/uploadImage.tsx?__react-router-build-client-route",
+    "isEntry": true,
+    "imports": [
+      "_jsx-runtime-Dx1zdrh6.js"
+    ]
+  },
+  "node_modules/@react-router/dev/dist/config/defaults/entry.client.tsx": {
+    "file": "assets/entry.client-C6X-dPUt.js",
+    "name": "entry.client",
+    "src": "node_modules/@react-router/dev/dist/config/defaults/entry.client.tsx",
+    "isEntry": true,
+    "imports": [
+      "_jsx-runtime-Dx1zdrh6.js"
+    ]
+  }
+}

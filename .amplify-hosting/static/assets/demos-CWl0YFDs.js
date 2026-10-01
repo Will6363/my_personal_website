@@ -1,0 +1,1 @@
+import{k as e,t}from"./jsx-runtime-Dx1zdrh6.js";var n=t(),r=e(function(){return(0,n.jsxs)(`div`,{children:[(0,n.jsx)(`h1`,{children:`Demos`}),(0,n.jsx)(`p`,{children:`Welcome to the demos page!`})]})});export{r as default};
